@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **react.js,express.js,mongo.db,node.js**
 
-- 👨‍💻 All of my projects are available at [mohitpfolio.netlify.com](mohitpfolio.netlify.com)
+- 👨‍💻 All of my projects are available at [mohitmyweb.vercel.app](mohitpfolio.netlify.com)
 
 - 💬 Ask me about **react**
 
