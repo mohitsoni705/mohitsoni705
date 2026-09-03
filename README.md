@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **mohitworkru@gmail.com**
+- 📫 How to reach me **mohitsoni3820@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1Q3fbZxEF0-K8Ty3RdkYoE3X1SPnThSdk_PYeekjLdNM/edit?tab=t.0](https://docs.google.com/document/d/1Q3fbZxEF0-K8Ty3RdkYoE3X1SPnThSdk_PYeekjLdNM/edit?tab=t.0)
 
